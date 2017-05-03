@@ -1,0 +1,35 @@
+			<div id="nb-h-wrap">
+				<div id="nb-header" class="cl">
+					<a class="nubia-logo" href="/index.php"></a>
+
+					<ul id="header01" class="nubia-navigator cl left">
+						<li vactive="1"><a href="/index.php">首页</a></li>
+						<li vactive="2"><a href="/globalMeadowLand.php?vactive=2">全球牧场</a></li>
+						<li vactive="3"><a href="/brandStory.php?vactive=3">品牌故事</a></li>
+						<li vactive="4"><a href="/internationalCooperation.php?vactive=4">国际合作</a>	</li>
+						<li vactive="5"><a href="/internetPlus.php?vactive=5">互联网+</a></li>
+						<li vactive="6"><a href="/socalResponsibility.php?vactive=6">社会责任</a></li>
+					</ul>
+
+				</div>
+			</div>
+			<script>
+			$(function () {
+				var active = getUrlParam("vactive");
+				if(active ==null || active == ""){
+					$("#header01").children().first().addClass("current");
+				}else{
+					$("#header01").children().each(function(e,v){
+						var ta = $(this).attr("vactive");
+						if(ta == active){
+							$(this).addClass("current");
+						}
+					});
+				}
+            });
+			function getUrlParam(name) {
+				var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+				var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+				if (r != null) return unescape(r[2]); return null; //返回参数值
+			}
+			</script>

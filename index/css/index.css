@@ -1,0 +1,390 @@
+/* mac retina slider */
+@media print, only screen and (-webkit-min-device-pixel-ratio: 1.5), screen and (min-resolution: 144dpi), screen and (min-resolution: 144dppx) {
+
+#nubia-wrap #nb-high ul li.high-noborder .title{background-image: url(http://static.nubia.cn/index/high/noborder/h-noborder-title-x2.png);}
+ #nubia-wrap #nb-high ul li.high-z9black .title{background-image: url(http://static.nubia.cn/index/high/z9black/h-z9black-title-x2.png);}
+ #nubia-wrap #nb-high ul li.high-z9mark .title{background-image: url(http://static.nubia.cn/index/high/z9mark/h-z9mark-title-x2.png);}
+ #nubia-wrap #nb-high ul li.high-z9open .title{background-image: url(http://static.nubia.cn/index/high/z9open/h-z9black-title-x2.png);}
+ #nubia-wrap #nb-high ul li.high-z9hgai{background-color: #42312d;  background-image: url(http://static.nubia.cn/index/high/z9hgai/h-z9hgai-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9hgai .btn01{background-image: url(http://static.nubia.cn/index/high/z9hgai/h-z9hgai-btn01-x2.png); }
+ #nubia-wrap #nb-high ul li.high-z9hgai .btn02{background-image: url(http://static.nubia.cn/index/high/z9hgai/h-z9hgai-btn02-x2.png); }
+ #nubia-wrap #nb-high ul li.high-z9pdt{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/z9pdt/h-z9pdt-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9pdt .title{background-image: url(http://static.nubia.cn/index/high/z9pdt/h-z9pdt-title-x2.jpg); }
+ #nubia-wrap #nb-high ul li.high-z9pdt2{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/z9pdt/h-z9pdt2-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9pdt2 .title{background-image: url(http://static.nubia.cn/index/high/z9pdt/h-z9pdt2-title-x2.jpg); }
+ #nubia-wrap #nb-high ul li.high-open{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/open/h-open-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-open .title{background-image: url(http://static.nubia.cn/index/high/open/h-open-title1-x2.png); }
+ #nubia-wrap #nb-high ul li.high-z9jisu{background-color: #232323;  background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-bg-x2v1.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9jisu .btn{background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-btn-x2.png); background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9max{background-color: #232323;  background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-bg-x2v1.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-z9max .btn{background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-btn-x2.png); background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-mobileday{background-color: #d33638;  background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-bg-x2.jpg); background-size: auto 120%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-mobileday .btn{background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-btn-x2.png); background-position: center center; background-repeat: no-repeat;}
+
+ #nubia-wrap #nb-high ul li.high-note{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/note/h-note-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-note .title{background-image: url(http://static.nubia.cn/index/high/note/h-note-title-x2.png); }
+
+ #nubia-wrap #nb-high ul li.high-prague{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-prague .title{background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-title2-x2.png); }
+ #nubia-wrap #nb-high ul li.high-power{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/power/h-power-bg-x2.jpg); background-size: auto 110%; background-position: center center; background-repeat: no-repeat;}
+ #nubia-wrap #nb-high ul li.high-power .title{background-image: url(http://static.nubia.cn/index/high/power/h-power-title-x2.png); }
+
+#nubia-wrap #nb-high ul li.high-jingying{background-color: #FCEFDE;  background-image: url(http://static.nubia.cn/index/high/jingying/h-jingying-bg-x2.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nubia-wrap #nb-high ul li.high-jingying .title{background-image: url(http://static.nubia.cn/index/high/jingying/h-jingying-title2-x2.png); }
+
+#nb-high li.high-88{background-color: #fff;  background-image: url(http://oss.static.nubia.cn/blockimage/145187370852.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+}
+
+/*jisu*/
+#nb-high li.high-jisu{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/jisu/h-z9jisu-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+
+/*z9maxjisu*/
+#nb-high li.high-jisu{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/jisu/h-z9maxjisu-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+
+/*jingying version*/
+#nb-high li.high-jingying{background-color:#FCEFDE;  background-image: url(http://static.nubia.cn/index/high/jingying/h-jingying-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high.big li.high-jingying .title{background-image: url(http://static.nubia.cn/index/high/jingying/h-jingying-title2-x2.png); background-size: 100% auto; width:199px; height:192px; position:absolute; top:330px; left:0;margin-left:80px;}
+#nb-high li.high-jingying .title{background-image:url(http://static.nubia.cn/index/high/jingying/h-jingying-title2.png); background-size: 100% 100%; width:199px; height:192px; position:absolute; top:270px; left:0;margin-left:140px; background-repeat: no-repeat;}
+#nb-high.small li.high-jingying .title{background-image: url(http://static.nubia.cn/index/high/jingying/h-jingying-title2-small.png); background-size: 100% 100%; width:180px; height:173px; position:absolute; top:250px; left:0;margin-left:170px;}
+
+#nb-high ul{display: block; position: relative; z-index: 1;height:0;padding-bottom: 41.8%}
+#nb-high .nb-h-switch{width: 100%; position: absolute; bottom: 10px; left: 0; text-align: center; z-index: 9;}
+#nb-high .nb-h-switch a{width: 20px; height: 20px; display: inline-block; vertical-align: middle; overflow: hidden; margin: 0 5px; position: relative;}
+#nb-high .nb-h-switch a b{width: 8px; height: 8px; overflow: hidden; background: #999; position: relative;  top: 0px;  border: 2px transparent solid; display: inline-block; vertical-align: middle; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; border-radius: 50%; -webkit-transform: scale(.6); -moz-transform: scale(.6); -ms-transform: scale(.6); transform: scale(.6); -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -ms-transition: all .3s ease; transition: all .3s ease; }
+/*#nb-high .nb-h-switch a:hover b,*/#nb-high .nb-h-switch a.current b{background: transparent; border-color: #005AA0; -webkit-transform: scale(1); -moz-transform: scale(1); -ms-transform: scale(1); transform: scale(1); }
+#nb-high ul li{width: 100%; height: 100%; position: absolute; top: 0; left: 0; overflow: hidden; background-repeat: no-repeat;}
+#nb-high ul li a{display: block; width: 100%; height: 100%; overflow: hidden; position: relative;}
+#nb-high ul li .h-stage{min-width: 500px; max-width: 1100px; height: 80px; position: relative; margin: auto; z-index: 9;}
+
+/*noborder*/
+#nb-high li.high-noborder{background-color: #212123; background-image: url(http://static.nubia.cn/index/high/noborder/h-noborder-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high.big li.high-noborder .title{background-image: url(http://static.nubia.cn/index/high/noborder/h-noborder-title-big.png); background-size: 100% auto; width:320px; height:350px; position:absolute; top:380px; left:40%; background-repeat: no-repeat;}
+#nb-high li.high-noborder .title{background-image: url(http://static.nubia.cn/index/high/noborder/h-noborder-title.png); background-size: 100% auto; width:268px; height:294px; position:absolute; top:300px; left:45%;margin-left:-440px; background-repeat: no-repeat;}
+#nb-high.small li.high-noborder .title{background-image: url(http://static.nubia.cn/index/high/noborder/h-noborder-title-small.png); background-size: 100% auto; width:219px; height:240px; position:absolute; top:240px; left:48%;margin-left:-400px;}
+
+/*z9jisu*/
+#nb-high li.high-z9jisu{background-color: #212121;  background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-bgv1.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high li.high-z9jisu .btn{background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-btn.png); background-size: 100% 100%;width: 390px;height: 205px;position: absolute;top: 300px;left: 50%;margin-left: -455px;}
+#nb-high.small li.high-z9jisu .btn{background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-btn.png); background-size: 100% 100%;width: 390px;height: 205px;position: absolute;top: 260px;left: 50%;margin-left: -455px;}
+#nubia-wrap #nb-high.big ul li.high-z9jisu .btn{background-image: url(http://static.nubia.cn/index/high/z9jisu/h-z9jisu-btn-x2.png); background-size: 100% 100%;width: 390px;height: 205px;position: absolute;top: 350px;left: 50%;margin-left: -455px;}
+#nb-high li.high-z9jisu .btn01{position: absolute;top: 170px;left: 95px;display: block;width: 97px;height: 31px;}
+#nb-high li.high-z9jisu .btn02{position: absolute;top: 170px;left: 202px;display: block;width: 97px;height: 31px;}
+
+/*z9maxjisu*/
+#nb-high li.high-z9max{background-color: #212121;  background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-bgv1.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high li.high-z9max .btn{background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-btn.png); background-size: 100% 100%;width: 505px;height: 205px;position: absolute;top: 300px;left: 50%;margin-left: -505px;}
+#nb-high.small li.high-z9max .btn{background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-btn.png); background-size: 100% 100%;width: 505px;height: 205px;position: absolute;top: 260px;left: 50%;margin-left: -505px;}
+#nubia-wrap #nb-high.big ul li.high-z9max .btn{background-image: url(http://static.nubia.cn/index/high/z9max/h-z9max-btn-x2.png); background-size: 100% 100%;width: 505px;height: 205px;position: absolute;top: 350px;left: 50%;margin-left: -505px;}
+#nb-high li.high-z9max .btn01{position: absolute;top: 170px;left: 153px;display: block;width: 97px;height: 31px;}
+#nb-high li.high-z9max .btn02{position: absolute;top: 170px;left: 259px;display: block;width: 97px;height: 31px;}
+
+/*myprague*/
+#nb-high li.high-prague{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high.big li.high-prague .title{background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-title2-x2.png); background-size: 100% auto; width:377px; height:174px; position:absolute; top:390px; left:38%;margin-left:50px;}
+#nb-high li.high-prague .title{background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-title2.png); background-size: 100% 100%; width:413px; height:187px; position:absolute; top:330px; left:38%;margin-left:-10px; background-repeat: no-repeat;}
+#nb-high.small li.high-prague .title{background-image: url(http://static.nubia.cn/index/high/prague/h-prague2-title2-small.png); background-size: 100% 100%; width:372px; height:168px; position:absolute; top:270px; left:38%;margin-left:-20px;}
+
+/*mobile pwoer*/
+#nb-high li.high-power{background-color: #fff;  background-image: url(http://static.nubia.cn/index/high/power/h-power-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high.big li.high-power .title{background-image: url(http://static.nubia.cn/index/high/power/h-power-title-x2.png); background-size: 100% auto; width:472px; height:208px; position:absolute; top:490px; left:0;margin-left:-350px;}
+#nb-high li.high-power .title{background-image: url(http://static.nubia.cn/index/high/power/h-power-title.png); background-size: 100% 100%; width:472px; height:208px; position:absolute; top:380px; left:0;margin-left:-240px; background-repeat: no-repeat;}
+#nb-high.small li.high-power .title{background-image: url(http://static.nubia.cn/index/high/power/h-power-title-small.png); background-size: 100% 100%; width:425px; height:187px; position:absolute; top:300px; left:0;margin-left:-120px;}
+
+/*high-mobileday*/
+#nb-high li.high-mobileday{background-color: #d33638;  background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-bg.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nb-high li.high-mobileday .btn{background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-btn.png); background-size: 100% 100%;width: 337px;height: 195px;position: absolute;top: 300px;left: 50%;margin-left: -480px;}
+#nb-high.small li.high-mobileday .btn{background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-btn-small.png); background-size: 100% 100%;width: 303px;height: 176px;position: absolute;top: 260px;left: 50%;margin-left: -480px;}
+#nubia-wrap #nb-high.big ul li.high-mobileday .btn{background-image: url(http://static.nubia.cn/index/high/mobileday/h-mobileday-btn-x2.png); background-size: 100% 100%;width: 337px;height: 195px;position: absolute;top: 350px;left: 50%;margin-left: -480px;}
+
+
+#nubia-wrap #nb-high ul li.high-z9maxjisu{background-color: #262626;  background-image: url(http://static.nubia.cn/index/high/jisu/h-z9maxjisu-bg-x2.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+#nubia-wrap #nb-high ul li.high-jisu{background-color: #262626;  background-image: url(http://static.nubia.cn/index/high/jisu/h-z9jisu-bg-x2.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+
+
+#nb-high li.high-88{background-color: #fff;  background-image: url(http://oss.static.nubia.cn/blockimage/145187370917.jpg); background-size: auto 100%; background-position: center center; background-repeat: no-repeat;}
+
+    .mz_footer-language {
+        position:relative;
+        cursor:default;
+        background:url(http://static.nubia.cn/index/images/footer-btn-icon.jpg) no-repeat scroll 100% 80% transparent;
+        display:inline;
+        padding-left: 15px;
+    }
+
+    .mz_footer-language_menu {
+        -moz-box-shadow:0 0 10px #E1E4E8;
+        -webkit-box-shadow:0 0 10px #E1E4E8;
+        box-shadow:0 0 10px #E1E4E8;
+        -moz-border-radius:2px;
+        -webkit-border-radius:2px;
+        border-radius:2px;
+        background-color:#FEFEFE;
+        border:solid 1px #E1E4E8;
+        display:none;
+        overflow:hidden;
+        position:absolute;
+        left:63px;
+        bottom:0;
+        width:150px;
+        z-index:2000
+    }
+
+    .mz_footer-language_menu a {
+        display:block;
+        position:relative;
+        height:40px;
+        line-height:40px;
+        width:138px;
+        margin:0 auto;
+        text-decoration:none;
+        border-bottom:solid 1px #E4E7E9;
+        font-size:14px;
+        text-align:left
+    }
+
+    .mz_footer-language_menu a i {
+        display:inline-block;
+        position:absolute;
+        top:5px;
+        width:21px;
+        height:21px;
+        margin:5px 15px 0 10px;
+        background:url(http://static.nubia.cn/index/images/footer-language.png) no-repeat scroll 0 0 #fff;
+    }
+
+    .mz_footer-language_menu a span {
+        display:block;
+        float:right;
+        width:100px;
+        cursor:pointer;
+        color:#000;
+    }
+
+    .mz_footer-language_menu a .en {
+        background-position:0 0;
+    }
+    .mz_footer-language_menu a .es {
+        background-position:-22px 0;
+    }
+    .mz_footer-language_menu a .it {
+        background-position:-45px 0;
+    }
+    .mz_footer-language_menu a .de {
+        background-position:-67px 0;
+    }
+    .mz_footer-language_menu a .th {
+        background-position:-91px 0;
+    }
+    .mz_footer-language_menu a .in {
+        background-position:-114px 0;
+    }
+    .mz_footer-language_menu a .ru {
+        background-position: -137px 0;
+    }
+    .mz_footer-language_menu a .vn {
+        background-position: -160px 0;
+    }
+    .mz_footer-language_menu a .ae {
+        background-position: -182px 0;
+    }
+    .mz_footer-language_menu a .sa {
+        background-position: -205px 0;
+    }
+    .mz_footer-language_menu a .cz {
+        background-position: -228px 0;
+    }
+    .mz_footer-language_menu a .sk {
+        background-position: -251px 0;
+    }
+    .mz_footer-language_menu a .us {
+        background-position: -274px 0;
+    }
+    .mz_footer-language_menu a .pl {
+        background-position: -297px 0;
+    }
+
+    .mz_footer-language_menu .ClobalItem {
+        background: #fff;z-index: 10;
+    }
+    .mz_footer-language_menu .ClobalItem:visited {
+        color:#000;
+    }
+    .nubia-copyright span.nb-footer-func{
+        z-index: 9999;
+    }
+	.nubia-copyright span.nb-footer-func.lowindex {
+		z-index: -1;
+	}
+    .nubia-copyright .nubia-foot-nav .mz_footer-language_menu a{
+        padding:0;
+        float:left;
+        margin-right:4px;
+    }
+.feedback-main {
+    height: 620px;
+    padding: 0 48px 48px;
+    background-color: #fff
+}
+.feedback-nav {
+    height: 18px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+	width:95%;
+    margin: 0 auto;
+    border-bottom: 1px solid #e0e0e0
+}
+.feedback-nav li {
+    float: left;
+    list-style: none;
+    margin: 0;
+    font-size: 18px;
+    line-height: 1;
+    color: #424242;
+	margin-left: 10px;
+}
+.feedback-nav .tab-active {
+    color: #999999
+}
+.form-box {
+    float: left
+}
+.form-box .title {
+    height: 60px;
+    margin: 0;
+    line-height: 60px;
+    font-weight: normal;
+    color: #424242;
+    font-size: 16px;
+    margin-left: 26px;
+}
+.form-box .form-section {
+    margin-bottom: 12px
+}
+.form-box .input-textarea {
+    width: 600px;
+    height: 85px;
+    margin-left: 26px;
+    margin-top: 15px;
+    border-radius: 3px;
+    padding: 10px;
+	border: 1px solid #9C9C9C;
+}
+.form-box .input-url {
+    width: 600px;
+	margin-left:26px;
+	padding: 10px;
+	border-radius: 3px;
+    border: 1px solid #9C9C9C;
+}
+.form-box .input-text {
+    width: 600px;
+    margin-left:26px;
+    padding: 10px;
+    border-radius: 3px;
+    border: 1px solid #9C9C9C;
+}
+.captcha-box {
+    margin-bottom: 20px
+}
+.captcha-box .form-section {
+    float: left
+}
+.captcha-box .form-section .input-text {
+    width: 120px;
+	margin-left:26px;
+	padding: 10px;
+	border-radius: 3px;
+    border: 1px solid #9C9C9C;
+}
+.captcha-box .captcha-img {
+    float: left
+}
+.captcha-box .captcha-img img {
+    float: left;
+    height: 40px;
+    margin-right: 10px
+}
+.captcha-box .captcha-img a {
+    float: left;
+    height: 40px;
+    line-height: 40px
+}
+.iconfont,.input-label{
+	margin-left: 26px;
+}
+#feedbackType{
+	width: 200px;
+	padding:10px;
+	border-radius: 3px;
+	border: 1px solid #9C9C9C;
+}
+#submitQuestion{
+	border: 1px solid #ee4a17;
+    display: block;
+    margin-left: 26px;
+    width: 140px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    color: #ee4a17;
+    border-radius: 3px;
+}
+/*閬僵鏍峰紡寮€濮�*/
+#feedback_addip_zz {
+	background-color:#000;
+	left:0;
+	opacity:0.5;
+	position:fixed;
+	top:0;
+	z-index:50;
+	filter:alpha(opacity=50);
+	-moz-opacity:0.5;
+	-khtml-opacity:0.5;
+}
+#feedback-dialog {
+	left:50%;
+	margin: -260px 0 0 -350px;
+	padding: 1px;
+	position: fixed !important;
+	top: 50%;
+	width: 700px;
+	height: 535px;
+	z-index: 9999;
+	border-radius:10px;
+	display:none;
+	color: #716e5f;
+	background-color:#fff;
+}
+
+.feedback_dialog_close{
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    z-index: 10000;
+    font-size: 30px;
+    text-align: center;
+    line-height: 30px;
+}
+/*閬僵鏍峰紡缁撴潫*/
+.feedback{
+	border-bottom:1px solid #d5d5d5;
+	width: 95%;
+    margin: 0 auto;
+	font-size:20px;
+	color: #000;
+	padding-bottom: 15px;
+}
+#errorTip {
+    color: red;
+    line-height: 41px;
+    margin-left: 26px;
+    text-indent: 30px;
+    margin-bottom:0px;
+}
+#wordTip {
+    margin-left:30px;
+}
